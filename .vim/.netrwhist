@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/shujal/.vim/c-support/templates'
+let g:netrw_dirhist_2='/home/shujal/linux-4.0.2'
+let g:netrw_dirhist_3='/home/shujal/.vim/tags'
+let g:netrw_dirhist_4='/home/shujal'
+let g:netrw_dirhist_5='/home/shujal/.vim'
+let g:netrw_dirhist_6='/home/shujal/Downloads/i3-gaps/i3-gaps/i3-msg'
+let g:netrw_dirhist_7='/home/shujal/Downloads/i3-gaps'
